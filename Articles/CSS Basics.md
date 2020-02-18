@@ -121,7 +121,7 @@ Here we have two values. Red and 20px. This should be written as follow:
 ## Practical example
 The following example is presented to show its use in code and to solve any query about implementation.
 
-We have three containers that, by position, assume that it is a browser, the main section and an adjacent one, and they are empty, only a line break will be placed to obtain blank space.
+We have three containers that, by position, assume that it is a browser, the main section and an adjacent one, and they are empty. Only a line break will be placed to obtain blank space.
 
 > HTML document
 
