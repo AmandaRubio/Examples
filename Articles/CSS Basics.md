@@ -101,22 +101,27 @@ Each property attribute to an element that can be modified or added to a selecto
     3. Percentages units
 
 #### Values
-These are the elements assigned to the properties that allow you to specify or modify the HTML. 
+These are the elements assigned to the properties that allow you to specify or modify the HTML.
+<br>
 Example:
-<br>
+<br> <br>
 "My button is green"
-The value being the color GREEN, it would be written like this: 
-`button { background-color: green } `
 <br>
+The value being the color GREEN, it would be written like this:
+<br>
+`button { background-color: green } `
+<br> <br>
 "My title is red, with text of 20px"
-Here we have two values. Red and 20px. This should be written as follow: 
+<br>
+Here we have two values. Red and 20px. This should be written as follow:
+<br> 
 `h1{ color: red; font-size: 20px }` 
 
 
 ## Practical example
 The following example is presented to show its use in code and to solve any query about implementation.
 
-We have three containers that, by position, assume that it is a browser, the main section and an adjacent one, and they are empty, only a line break will be placed to obtain blank space.
+We have three containers that, by position, assume that it is a browser, the main section and an adjacent one, and they are empty. Only a line break will be placed to obtain blank space.
 
 > HTML document
 
