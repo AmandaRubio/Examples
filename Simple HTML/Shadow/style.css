@@ -1,0 +1,24 @@
+body,html{
+    width: 100%;
+    background: lightslategrey;
+    margin:0;
+}
+
+div{
+    margin:0;
+    width:100%;
+    height:100%;
+}
+.st0{fill:#2C3E50;}
+	.st1{fill:#EDF0F1;}
+	.st2{fill:#E64C3C;stroke:#E64C3C;stroke-miterlimit:10;}
+    .st3{opacity:0.25;fill:#2C3E50;}
+    
+svg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding:220px 0;
+    width: 10%;
+    filter: drop-shadow(0 0 4px #333);
+}
