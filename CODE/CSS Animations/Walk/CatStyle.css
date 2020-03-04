@@ -1,0 +1,23 @@
+.tuna {
+    /* use the timing function steps() to chunk the animation into 12 equal pieces */
+    background: url(http://stash.rachelnabors.com/animation-workshop/sprite_catwalk.png) 0 0 no-repeat;
+    animation: tunaWalk 1s steps(11) infinite;
+    height: 200px;
+    width: 400px;
+    margin: auto;
+}
+
+/* keyfgrames Walking */
+@keyframes tunaWalk {
+    0% {
+        background-position: 0 0;
+    }
+
+    100% {
+        background-position: 0 100%;
+    }
+}
+
+p {
+    text-align: center;
+}
